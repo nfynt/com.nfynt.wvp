@@ -1,6 +1,7 @@
 # com.nfynt.wvp
 
 [![npm version](https://badge.fury.io/js/com.nfynt.wvp.svg)](https://badge.fury.io/js/com.nfynt.wvp)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/nfynt)
 
 ### Unity Web Video Player
 
