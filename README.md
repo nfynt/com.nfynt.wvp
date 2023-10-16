@@ -8,6 +8,8 @@
 A video player plugin for Unity WebGL applications. Unity's builtin VideoPlayer generally doesn't work for WebGL or is not supported on mobile browsers. This package uses Web-native video elements to read the video source and exposes the basic video controls to Unity.
 You can use video URLs either from `StreamingAssets` path or external web servers (permissing CORS). Video controls include - Start, Stop, Pause, Resume, (Un)Mute, and respective events within the editor. This package supports in-editor playing as well using Unity's VideoPlayer.
 
+<u>[Project Demo](https://nfynt.github.io/com.nfynt.wvp/)</u>
+
 ### Importing in Unity
 
 To install this package in Unity you'll first have to add a new Scoped Registry. Head over to `Edit>Project Settings>Package Manager` and add the new registry details as follows - 
